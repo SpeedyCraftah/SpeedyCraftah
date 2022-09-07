@@ -1,1 +1,1 @@
-<p style="font-size: 20px;">🔋📡🔦🔌📻</p>
+<p style="font-size: 30px;">🔋📡🔦🔌📻</p>
