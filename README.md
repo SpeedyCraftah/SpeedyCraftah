@@ -1,1 +1,1 @@
-<p>No longer a computer science student (yay?).</p>
+<p>Developer, engineer and security consultant in training.</p>
