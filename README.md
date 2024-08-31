@@ -1,4 +1,4 @@
-**Public PGP key for communication**
+**Public PGP key for communication (ED25519)**
 <details><summary>Show Key</summary>
 
 ```
