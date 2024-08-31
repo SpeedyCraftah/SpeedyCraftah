@@ -1,4 +1,5 @@
-**Public key for communication**
+**Public PGP key for communication**
+<details><summary>Show Key</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -14,3 +15,5 @@ lSAXxzkwxE887RSgtgEA0Fk39f/sY/es9u3xrG5EZmJ+C08Fws/yng2XOSfh3AY=
 =TA+t
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>
