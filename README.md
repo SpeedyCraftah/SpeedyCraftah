@@ -18,3 +18,5 @@ lSAXxzkwxE887RSgtgEA0Fk39f/sY/es9u3xrG5EZmJ+C08Fws/yng2XOSfh3AY=
 ```
 
 </details>
+
+Aside from open-source contributions, this account is now for the most part a mirror where most work is done on my internal Gitea instance, with public projects being synced to GitHub periodically, and some of which are yet to be available publically.
